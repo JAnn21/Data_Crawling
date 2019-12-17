@@ -60,8 +60,8 @@
 
 ## Result 
 
-### - 시각화 결과
+> - 시각화 결과
 ![figure](./crawling_data/figure.png)
 
-### -  피어슨 상관계수 
+> -  피어슨 상관계수 
 ![correlation](./crawling_data/correlation.png)
