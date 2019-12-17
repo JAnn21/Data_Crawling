@@ -56,9 +56,11 @@
 | drama_average_rating_지상파.csv   | 지상파 각 드라마의 평균 시청률   |
 | drama_average_rating_케이블.csv   | 케이블 각 드라마의 평균 시청률   |
 
-
+</br>
 ## Result 
 
+#### 시각화 결과
 ![figure](./crawling_data/figure.png)
 
+#### 피어슨 상관계수
 ![correlation](./crawling_data/correlation.png)
