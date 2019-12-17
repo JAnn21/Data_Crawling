@@ -68,7 +68,7 @@
 
 ![correlation](./crawling_data/correlation.png)
 
-> 참고
+> - 참고
 
 |  상관계수  |      해석    |
 | --------- | ---------------- |
