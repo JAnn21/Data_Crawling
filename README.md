@@ -16,3 +16,6 @@
 | draw_figure.py                      | 데이터 분석 결과를 그려주고 상관계수를 계산하는 파일         |
 | utils.py                            | 파일 리스트 읽기, 드라마 목록 읽기, csv 저장하기 등 반복하여 사용하게 되는 함수를 모아놓은 파일 |
 
+# Result 
+
+![figure](./crawling_data/figure.png)
