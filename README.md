@@ -1,6 +1,6 @@
 # Data_Crawling
 
-# Description
+## Description
 
 - #### crawling_code
 
@@ -35,24 +35,24 @@
 | blog_post_count_before_2주_지상파.csv    | 지상파 드라마 방영 시작 전 2주간의 블로그 포스트 개수 (중복 제거 전, 제거 후) |
 | blog_post_count_before_2주_케이블.csv    | 케이블 드라마 방영 시작 전 2주간의 블로그 포스트 개수 (중복 제거 전, 제거 후) |
 
-- drama_list
+  - drama_list
 
-  | 파일명             | 요약                                     |
-  | ------------------ | ---------------------------------------- |
-  | drama_종합편성.csv | 크롤링 한 종합편성 드라마 데이터         |
-  | drama_지상파.csv   | 크롤링 한 지상파 드라마 데이터           |
-  | drama_케이블.csv   | 크롤링 한 케이블 드라마 데이터drama_list |
+| 파일명             | 요약                                     |
+| ------------------ | ---------------------------------------- |
+| drama_종합편성.csv | 크롤링 한 종합편성 드라마 데이터         |
+| drama_지상파.csv   | 크롤링 한 지상파 드라마 데이터           |
+| drama_케이블.csv   | 크롤링 한 케이블 드라마 데이터drama_list |
 
-- drama_rating
+  - drama_rating
 
-  | 파일명                            | 요약                             |
-  | --------------------------------- | -------------------------------- |
-  | drama_rating_종합편성 (디렉토리)  | 종합편성 드라마 시청률 데이터    |
-  | drama_rating_지상파 (디렉토리)    | 지상파 드라마 시청률 데이터      |
-  | drama_rating_케이블 (디렉토리)    | 케이블 드라마 시청률 데이터      |
-  | drama_average_rating_종합편성.csv | 종합편성 각 드라마의 평균 시청률 |
-  | drama_average_rating_지상파.csv   | 지상파 각 드라마의 평균 시청률   |
-  | drama_average_rating_케이블.csv   | 케이블 각 드라마의 평균 시청률   |
+| 파일명                            | 요약                             |
+| --------------------------------- | -------------------------------- |
+| drama_rating_종합편성 (디렉토리)  | 종합편성 드라마 시청률 데이터    |
+| drama_rating_지상파 (디렉토리)    | 지상파 드라마 시청률 데이터      |
+| drama_rating_케이블 (디렉토리)    | 케이블 드라마 시청률 데이터      |
+| drama_average_rating_종합편성.csv | 종합편성 각 드라마의 평균 시청률 |
+| drama_average_rating_지상파.csv   | 지상파 각 드라마의 평균 시청률   |
+| drama_average_rating_케이블.csv   | 케이블 각 드라마의 평균 시청률   |
 
 # Result 
 
